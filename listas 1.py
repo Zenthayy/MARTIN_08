@@ -9,3 +9,4 @@ for i in range(len(asignaturas)):
 print("\nTienes que repetir las siguientes asignaturas:")
 for asignatura in repetir:
     print(asignatura)
+print("EL AZOCAR SE LO COME DOBLADO")
